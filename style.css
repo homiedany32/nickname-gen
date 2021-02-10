@@ -1,0 +1,19 @@
+body {
+    background-color: deepskyblue;
+}
+
+p, h1 {
+    color: white;
+}
+
+#main {
+    margin: 10px 20px 20px 25px;
+    border-bottom-color: white;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+#output {
+    margin-left: 20px;
+    font-size: 30px;
+}
